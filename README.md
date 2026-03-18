@@ -61,6 +61,3 @@ logibot/
 └── package.json
 ```
 
-## License
-
-MIT
